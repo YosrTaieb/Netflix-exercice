@@ -1,0 +1,12 @@
+.list-img {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.list-img::-webkit-scrollbar {
+  /* width: 0px;
+  background: transparent; */
+  display: none;
+}

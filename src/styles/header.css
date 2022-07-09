@@ -1,0 +1,18 @@
+.logo {
+width: 150px;
+margin-top: 10px;
+}
+
+.container {
+  width: 100%;
+  max-width: 2485px;
+  margin: 0 auto;
+  padding: 0 0 0 50px;
+}
+
+header {
+  height: 90px;
+}
+
+
+
